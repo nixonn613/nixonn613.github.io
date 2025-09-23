@@ -1,8 +1,3 @@
----
-layout: page
-title: About
----
-
 # About Me
 
 I’m a student developer interested in game design and programming.  
