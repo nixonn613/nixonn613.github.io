@@ -1,12 +1,7 @@
----
-layout: page
-title: Games
----
-
 # My Games & Contributions
 
-## [The Legend of Zelda](link-to-your-playable-game-or-github-repo)
-- **My contributions:** Developed the core AI system, worked on half of the enemies, and experimented with audio.
+## [EECS 494 P1 - The Legend of Zelda (Dungeon 1)](link-to-your-playable-game-or-github-repo)
+- **My contributions:** I worked on the animations, a few of the enemies, made the weapons, and built the UI/HUD
 - **Technology used:** Unity, C#, and Gimp (for sprites)
 
 ---
