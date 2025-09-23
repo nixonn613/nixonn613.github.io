@@ -1,5 +1,14 @@
-theme: jekyll-theme-minimal
-title: Nikye's Homepage
+theme: minima
+title: Nikye's Game Portfolio
 description: Bookmark this to keep an eye on my project updates!
+
+header_pages
+- index.md
+- games.md
+- about.md
+
+author:
+  name: "Nikye Nixon"
+  email: "nixonn@umich.edu"
 
 
