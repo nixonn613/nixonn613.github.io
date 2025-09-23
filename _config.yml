@@ -2,7 +2,7 @@ theme: minima
 title: Nikye's Game Portfolio
 description: Bookmark this to keep an eye on my project updates!
 
-header_pages
+header_pages:
 - index.md
 - games.md
 - about.md
