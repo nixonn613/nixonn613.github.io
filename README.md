@@ -7,7 +7,7 @@ This site showcases the games I've worked on for class projects, including my co
 ---
 # Games ✮⋆˙
 ## [EECS 494 P1 - The Legend of Zelda (Dungeon 1)](https://nixonn613.itch.io/the-legend-of-zelda-dungeon-1)
-- **My contributions:** I worked on the animations, half of the enemies, made the weapons, and built the UI/HUD
+- **My contributions:** I made the animations, a few of the enemies (Keese, Wallmaster, and Gel), made the weapons, and made the Health UI/HUD
 - **Technology used:** Unity, C#, and Gimp (for sprites)
 
 ---
@@ -24,5 +24,4 @@ This site showcases the games I've developed as part of my Major Design Experien
 
 A: My favorite game changes often, but my favorites fall into the thriller, mystery, horror genre (some of my faves being Danganronpa, Until Dawn, The Quarry, Resident Evil). Anything with a rich story or something that will immerse into some storyline, will likely fall into my favorites (honorable mentions: Detroit: Become Human, Mouthwashing, Heavy Rain, Undertale). I love a lighthearted game too, though! Among my favorite, more lighthearted games are Stardew Valley, Infinity Nikki (pre-update, iykyk), and Tomodachi Life.
 
-### More info coming soon =3
 🍀 ~
