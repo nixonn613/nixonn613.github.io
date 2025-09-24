@@ -14,7 +14,7 @@ This site showcases the games I've worked on for class projects, including my co
 
 # ˖ ݁♬⋆.˚𝄞.  About Me ...
 <p align="center">
-  <img src="Caches748880438.014668.jpg" alt="Photo of me" width="400">
+  <img src="779406636.829616.jpg" alt="Photo of me" width="400">
 </p>
 
 I’m a student developer interested in game design and programming (among many other things)!
