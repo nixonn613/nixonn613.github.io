@@ -1,10 +1,4 @@
-title: Nikye Nixon's Game Portfolio
-email: nixonn@umich.edu
-description: Bookmark this to keep an eye on my project updates!
-
+title: Nikye Nixon
+logo: Caches748880438.014668.jpg
+show_downloads: true
 theme: jekyll-theme-minimal
-
-header_pages:
-  - index.md
-  - games.md
-  - about.md
