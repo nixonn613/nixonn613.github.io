@@ -1,4 +1,4 @@
-# ⋆౨ৎ˚⟡˖ ࣪  Welcome to my Portfolio ｡𖦹°‧
+# ⋆౨ৎ˚⟡˖ ࣪ Welcome to my Portfolio ｡𖦹°‧
 
 **Nikye Nixon - _Student Video Game Dev_**
 
