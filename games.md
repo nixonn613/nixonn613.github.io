@@ -1,6 +1,7 @@
 ---
 title: Games
 layout: default
+permalink: /games/
 ---
 
 ## [EECS 494 P1 - The Legend of Zelda (Dungeon 1)](link-to-your-playable-game-or-github-repo)
