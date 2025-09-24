@@ -1,6 +1,7 @@
 ---
 title: Index
 layout: default
+permalink: /index/
 ---
 # Welcome to my Portfolio
 Hello! My name is **Nikye Nixon**.  
