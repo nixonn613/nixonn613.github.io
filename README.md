@@ -1,8 +1,8 @@
 # ⋆౨ৎ˚⟡˖ ࣪ Welcome to my Portfolio ｡𖦹°‧
 
-**Nikye Nixon - _Student Video Game Dev_**
+**Nikye Nixon - _Video Game Developer_**
 
-This site showcases the games I've worked on for class projects, including my contributions and the technology used. 
+This site showcases the projects I have completed and/or am working on, including my contributions and the technology used. 
 
 ---
 # Games ✮⋆˙
