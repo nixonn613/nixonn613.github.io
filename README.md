@@ -10,6 +10,9 @@ This site showcases the projects I have completed and/or am working on, includin
 - **My contributions:** I made the animations, a few of the enemies (Keese, Wallmaster, and Gel), made the weapons, and made the Health UI/HUD
 - **Technology used:** Unity, C#, and Gimp (for sprites)
 
+## [EECS 494 P2 - Cat out of Water](https://nixonn613.itch.io/cat-out-of-water)
+-- A 2D puzzle platformer game, featuring a cat that hates water, and that can also change between the 3 states of water (liquid, vapor, gas). 
+
 ---
 
 # ˖ ݁♬⋆.˚𝄞.  About Me ...
