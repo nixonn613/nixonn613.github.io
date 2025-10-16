@@ -7,11 +7,20 @@ This site showcases the projects I have completed and/or am working on, includin
 ---
 # Games ✮⋆˙
 ## [EECS 494 P1 - The Legend of Zelda (Dungeon 1)](https://nixonn613.itch.io/the-legend-of-zelda-dungeon-1)
-- **My contributions:** I made the animations, a few of the enemies (Keese, Wallmaster, and Gel), made the weapons, and made the Health UI/HUD
+- Recreation of Dungeon 1 from The Legend of Zelda
+- Implemented player movement, sword combat, enemy AI, and damage systems using Unity’s 2D physics 
+- I worked on the animations, enemy AI for Keese, Wallmaster, and Gel, implemented weapon/damage systems, and made the Health UI/HUD
 - **Technology used:** Unity, C#, and Gimp (for sprites)
 
 ## [EECS 494 P2 - Cat out of Water](https://nixonn613.itch.io/cat-out-of-water)
--- A 2D puzzle platformer game, featuring a cat that hates water, and that can also change between the 3 states of water (liquid, vapor, gas). 
+** A game featuring a cat that hates water, who can also change between the 3 states of water (liquid, vapor, gas) to navigate through levels.**
+- Designed and developed a 2D platformer prototype centered on elemental state changes (vapor, ice, water) and their impact on movement and interaction.
+- Built in Unity using C#, implementing core systems including player movement, environmental hazards, checkpoints, and level transitions.
+- Conducted a midpoint playtest after one week to collect player feedback on clarity, difficulty, and pacing.
+- Implemented a “Gold Spike” feature focusing on the limited-duration cloud-riding mechanic to explore tension and flow in mobility-based gameplay.
+- Added environmental feedback systems (animated traps,  sound cues) to enhance player experience and “game feel.”
+- Iterated rapidly based on playtest insights to refine level design, progression pacing, and responsive controls.
+- **Technology used:** Unity, C#, Gimp, pixilart.com
 
 ---
 
