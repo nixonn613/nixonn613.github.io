@@ -13,7 +13,7 @@ This site showcases the projects I have completed and/or am working on, includin
 - **Technology used:** Unity, C#, and Gimp (for sprites)
 
 ## [EECS 494 P2 - Cat out of Water](https://nixonn613.itch.io/cat-out-of-water)
-** A game featuring a cat that hates water, who can also change between the 3 states of water (liquid, vapor, gas) to navigate through levels.**
+**A game featuring a cat that hates water, who can also change between the 3 states of water (liquid, vapor, gas) to navigate through levels.**
 - Designed and developed a 2D platformer prototype centered on elemental state changes (vapor, ice, water) and their impact on movement and interaction.
 - Built in Unity using C#, implementing core systems including player movement, environmental hazards, checkpoints, and level transitions.
 - Conducted a midpoint playtest after one week to collect player feedback on clarity, difficulty, and pacing.
